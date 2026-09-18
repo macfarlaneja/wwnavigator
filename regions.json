@@ -1,0 +1,304 @@
+{
+  "regions": [
+    {
+      "id": "VYSA",
+      "name": "Vysarian Isles",
+      "connected_region_ids": ["MOON"],
+      "ports": [
+        { "name": "Crownstead", "x": 1840, "y": 1110 },
+        { "name": "Fort Icarus", "x": 1828, "y": 1099 },
+        { "name": "Ashbourne", "x": 1799, "y": 1113 },
+        { "name": "Fort Adler", "x": 1772, "y": 1077 },
+        { "name": "Wyntergard", "x": 1797, "y": 1035 },
+        { "name": "Gyldenvale", "x": 1878, "y": 1011 }
+      ]
+    },
+    {
+      "id": "MOON",
+      "name": "Moonlit Marches",
+      "connected_region_ids": [],
+      "ports": [
+        { "name": "Port Ulfrich", "x": 1586, "y": 1092 },
+        { "name": "Fort Blackspyre", "x": 1583, "y": 1077 },
+        { "name": "Briarstone", "x": 1589, "y": 961 },
+        { "name": "Solace Harbour", "x": 1447, "y": 999 },
+        { "name": "Prince Kromlau's Vigil", "x": 1479, "y": 1056 },
+        { "name": "Ironwood Bay", "x": 1464, "y": 1129 }
+      ]
+    },
+    {
+      "id": "STNI",
+      "name": "Saint-Nicolas Isles",
+      "connected_region_ids": [],
+      "ports": [
+        { "name": "Fort Saint-Paul", "x": 1351, "y": 1037 },
+        { "name": "Taylor's Town", "x": 1344, "y": 1055 },
+        { "name": "Saint-Nicolas", "x": 1263, "y": 1022 },
+        { "name": "Sandy Settlement", "x": 1208, "y": 1024 },
+        { "name": "Fort Lawrence", "x": 1222, "y": 1047 },
+        { "name": "Peter's Cove", "x": 1188, "y": 1107 }
+      ]
+    },
+    {
+      "id": "SSOM",
+      "name": "South Somerset",
+      "connected_region_ids": ["NSOM"],
+      "ports": [
+        { "name": "Fort Dalton", "x": 1689, "y": 1706 },
+        { "name": "Snake Prosper", "x": 1705, "y": 1666 },
+        { "name": "Caledonia", "x": 1670, "y": 1689 },
+        { "name": "Whitehook", "x": 1610, "y": 1685 },
+        { "name": "Fort Makser", "x": 1555, "y": 1731 },
+        { "name": "Deadman's Murcia", "x": 1648, "y": 1638 }
+      ]
+    },
+    {
+      "id": "NSOM",
+      "name": "North Somerset",
+      "connected_region_ids": [],
+      "ports": [
+        { "name": "Saint Vincent", "x": 1501, "y": 1532 },
+        { "name": "Al-Jazair", "x": 1478, "y": 1448 },
+        { "name": "Fort Harrison", "x": 1406, "y": 1442 },
+        { "name": "Yorinobu's Settlement", "x": 1348, "y": 1538 },
+        { "name": "New Brighton", "x": 1349, "y": 1437 }
+      ]
+    },
+    {
+      "id": "CAST",
+      "name": "Isle Castillo",
+      "connected_region_ids": [],
+      "ports": [
+        { "name": "Pilltown", "x": 1359, "y": 1288 },
+        { "name": "Castillo de la Roca", "x": 1324, "y": 1271 },
+        { "name": "Gull Rock", "x": 1222, "y": 1336 },
+        { "name": "Crag Raven", "x": 1335, "y": 1216 },
+        { "name": "Port-Picolet", "x": 1202, "y": 1198 }
+      ]
+    },
+    {
+      "id": "BELL",
+      "name": "Belle Isles",
+      "connected_region_ids": ["LOU"],
+      "ports": [
+        { "name": "Petit Anvers", "x": 1065, "y": 1814 },
+        { "name": "Sainte Rose", "x": 936, "y": 1790 },
+        { "name": "Fort Cartier", "x": 1009, "y": 1772 },
+        { "name": "Fort Roche", "x": 1070, "y": 1735 },
+        { "name": "Louisburg", "x": 996, "y": 1722 },
+        { "name": "Maurepas", "x": 997, "y": 1654 }
+      ]
+    },
+    {
+      "id": "LOU",
+      "name": "Iles de Louis",
+      "connected_region_ids": [],
+      "ports": [
+        { "name": "Port Louis", "x": 1104, "y": 1488 },
+        { "name": "Ile Oubliee", "x": 1022, "y": 1490 },
+        { "name": "Matthew's Rest", "x": 909, "y": 1472 },
+        { "name": "Bucket Bay", "x": 982, "y": 1453 },
+        { "name": "Fort Jackson", "x": 984, "y": 1432 },
+        { "name": "Fair Harbour", "x": 1060, "y": 1438 }
+      ]
+    },
+    {
+      "id": "STPI",
+      "name": "Saint-Pierre",
+      "connected_region_ids": [],
+      "ports": [
+        { "name": "Point-Rocheaux", "x": 931, "y": 1289 },
+        { "name": "Port-Au-Croix", "x": 1019, "y": 1265 },
+        { "name": "Fort Francis", "x": 1071, "y": 1238 },
+        { "name": "Pachard Town", "x": 1083, "y": 1212 }
+      ]
+    },
+    {
+      "id": "STGE",
+      "name": "Saint George Islands",
+      "connected_region_ids": ["AVAL"],
+      "ports": [
+        { "name": "Fort Nelson", "x": 443, "y": 1761 },
+        { "name": "St. George", "x": 363, "y": 1705 },
+        { "name": "Robert's Retreat", "x": 238, "y": 1677 },
+        { "name": "Birkenhead", "x": 303, "y": 1646 },
+        { "name": "Fort William", "x": 409, "y": 1635 },
+        { "name": "Port Stanley", "x": 445, "y": 1652 }
+      ]
+    },
+    {
+      "id": "AVAL",
+      "name": "Avalon",
+      "connected_region_ids": [],
+      "ports": [
+        { "name": "Ignot", "x": 456, "y": 1498 },
+        { "name": "Fort Crozier", "x": 649, "y": 1496 },
+        { "name": "Keskamik", "x": 632, "y": 1469 },
+        { "name": "Avalon", "x": 522, "y": 1447 },
+        { "name": "Saltwick", "x": 551, "y": 1357 }
+      ]
+    },
+    {
+      "id": "IRVI",
+      "name": "Irving's Reach",
+      "connected_region_ids": [],
+      "ports": [
+        { "name": "Lord Irving's Sacrifice", "x": 837, "y": 1291 },
+        { "name": "Deadman's Bastion", "x": 740, "y": 1257 },
+        { "name": "Mako's Lookout", "x": 847, "y": 1230 },
+        { "name": "Agnir's Grotto", "x": 776, "y": 1163 }
+      ]
+    },
+    {
+      "id": "SSAL",
+      "name": "San Salvador Islands",
+      "connected_region_ids": ["KING"],
+      "ports": [
+        { "name": "Poblado de San Julian", "x": 104, "y": 1092 },
+        { "name": "Santa Maria", "x": 144, "y": 1061 },
+        { "name": "San Felipe", "x": 125, "y": 941 },
+        { "name": "San Salvador", "x": 139, "y": 942 },
+        { "name": "Puerto de San Fernando", "x": 248, "y": 1186 },
+        { "name": "Castillo de San Lorenzo el real", "x": 216, "y": 1213 }
+      ]
+    },
+    {
+      "id": "KING",
+      "name": "Kingston Isles",
+      "connected_region_ids": [],
+      "ports": [
+        { "name": "Theresa", "x": 336, "y": 1083 },
+        { "name": "Port Antonio", "x": 389, "y": 1140 },
+        { "name": "Falmouth", "x": 467, "y": 1156 },
+        { "name": "Fort George", "x": 414, "y": 1041 },
+        { "name": "Port Royal", "x": 425, "y": 986 }
+      ]
+    },
+    {
+      "id": "TPAP",
+      "name": "Terra dos Papaigos",
+      "connected_region_ids": [],
+      "ports": [
+        { "name": "Porto dos Casais", "x": 598, "y": 1094 },
+        { "name": "Forte Da Ilha", "x": 664, "y": 1075 },
+        { "name": "Barra Grande", "x": 591, "y": 980 },
+        { "name": "Ruinas do Cranio", "x": 696, "y": 982 },
+        { "name": "Forte Da Barra", "x": 713, "y": 1032 },
+        { "name": "Guanabara", "x": 740, "y": 1043 }
+      ]
+    },
+    {
+      "id": "SPOL",
+      "name": "San Polo Islands",
+      "connected_region_ids": ["CSOL"],
+      "ports": [
+        { "name": "Kandlerova", "x": 263, "y": 396 },
+        { "name": "San Polo", "x": 344, "y": 426 },
+        { "name": "Fort Sibenik", "x": 353, "y": 464 },
+        { "name": "Forte Di Settia", "x": 412, "y": 470 },
+        { "name": "La Poveglia", "x": 496, "y": 432 }
+      ]
+    },
+    {
+      "id": "CSOL",
+      "name": "Cayos Solados",
+      "connected_region_ids": [],
+      "ports": [
+        { "name": "San Vito", "x": 503, "y": 558 },
+        { "name": "Luzon Reach", "x": 548, "y": 618 },
+        { "name": "Balangay Bay", "x": 626, "y": 586 },
+        { "name": "Panglao Cove", "x": 633, "y": 636 },
+        { "name": "Port Maynilad", "x": 658, "y": 692 }
+      ]
+    },
+    {
+      "id": "CENC",
+      "name": "Cayos Encatados",
+      "connected_region_ids": [],
+      "ports": [
+        { "name": "Villareal del Mar", "x": 790, "y": 855 },
+        { "name": "Venta Nueva", "x": 866, "y": 792 }
+      ]
+    },
+    {
+      "id": "IBRU",
+      "name": "Ilhas Brunas",
+      "connected_region_ids": ["GREY"],
+      "ports": [
+        { "name": "Madalena", "x": 1074, "y": 167 },
+        { "name": "Ponta Delgada", "x": 883, "y": 239 },
+        { "name": "Sao Bento", "x": 1011, "y": 259 },
+        { "name": "Forte de Santa Cruz", "x": 935, "y": 316 },
+        { "name": "Caveria", "x": 1139, "y": 289 },
+        { "name": "Fortaleza de Santa Antao", "x": 1080, "y": 333 }
+      ]
+    },
+    {
+      "id": "GREY",
+      "name": "Greywater Isles",
+      "connected_region_ids": [],
+      "ports": [
+        { "name": "Port Town", "x": 1124, "y": 438 },
+        { "name": "Swansea", "x": 1166, "y": 511 },
+        { "name": "St. Christiaen", "x": 925, "y": 607 },
+        { "name": "Manghold", "x": 1114, "y": 672 }
+      ]
+    },
+    {
+      "id": "BSHO",
+      "name": "Blacktip Shoals",
+      "connected_region_ids": [],
+      "ports": [
+        { "name": "Belfry Heights", "x": 974, "y": 784 },
+        { "name": "Thresher Point", "x": 1032, "y": 793 },
+        { "name": "Fort Acadia", "x": 1061, "y": 818 },
+        { "name": "Caye Triburon", "x": 1030, "y": 876 }
+      ]
+    },
+    {
+      "id": "PROV",
+      "name": "Providence",
+      "connected_region_ids": ["NCAT"],
+      "ports": [
+        { "name": "Hamilton", "x": 1662, "y": 425 },
+        { "name": "Fort Pembroke", "x": 1648, "y": 414 },
+        { "name": "Cliveden", "x": 1613, "y": 416 },
+        { "name": "Tucker's Town", "x": 1549, "y": 412 },
+        { "name": "Longtail Harbour", "x": 1544, "y": 432 },
+        { "name": "Fort St. Catherine", "x": 1530, "y": 455 }
+      ]
+    },
+    {
+      "id": "NCAT",
+      "name": "New Catalina Islands",
+      "connected_region_ids": [],
+      "ports": [
+        { "name": "Sugar Cove", "x": 1503, "y": 570 },
+        { "name": "New Catalina", "x": 1453, "y": 593 },
+        { "name": "Fort Perry", "x": 1437, "y": 624 },
+        { "name": "Cumberland Hill", "x": 1480, "y": 642 },
+        { "name": "Fort Savannah", "x": 1452, "y": 671 },
+        { "name": "Jone's Outpost", "x": 1426, "y": 694 }
+      ]
+    },
+    {
+      "id": "LEBA",
+      "name": "Lebarde Islands",
+      "connected_region_ids": [],
+      "ports": [
+        { "name": "Lebarde", "x": 1201, "y": 792 },
+        { "name": "Castle Landing", "x": 1315, "y": 788 },
+        { "name": "Princeton", "x": 1282, "y": 895 },
+        { "name": "Fort Thomas", "x": 1198, "y": 870 }
+      ]
+    },
+    {
+      "id": "GROC",
+      "name": "Griffard's Rock",
+      "connected_region_ids": [],
+      "ports": [
+        { "name": "Griffard's Rock", "x": 957, "y": 1045 }
+      ]
+    }
+  ]
+}
